@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="North star shield">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <path d="M60 6l40 16v36c0 28-18 48-40 56C38 106 20 86 20 58V22z" fill="url(#g)"/>
+  <path d="M60 28l6 16 16 6-16 6-6 16-6-16-16-6 16-6z" fill="#0b1020" opacity="0.9"/>
+  <circle cx="60" cy="50" r="6" fill="#0b1020"/>
+</svg>
